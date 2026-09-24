@@ -9,12 +9,10 @@ public class FindMaxVal {
         int max = a;
 
         if(b > max) {
-            if(b > c) {
-                max = b;
-            }else {
-                max = c;
-            }
-        } else if (c > max) {
+           max = b;
+        }
+
+        if(c > max) {
             max = c;
         }
 
