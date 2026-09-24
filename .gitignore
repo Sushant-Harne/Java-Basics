@@ -1,0 +1,44 @@
+# Compiled Java Class Files
+*.class
+
+# Executables / Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Output & Build Directories
+out/
+build/
+target/
+
+# IntelliJ IDEA Specific Files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse Specific Files (if collaborators use Eclipse)
+.settings/
+.classpath
+.project
+
+# VS Code Specific Files (if collaborators use VS Code)
+.vscode/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log & Temporary Files
+*.log
+*.tmp
